@@ -12,7 +12,7 @@ namespace QLCV.Controllers
 {
     public class TaskController : BaseController
     {
-        
+        // Test test test 
         DAO_Task dao_task = new DAO_Task();
         DAO_User dao_user = new DAO_User();
         //public NGUOIDUNG userLogin = Session["USER"] as NGUOIDUNG;
